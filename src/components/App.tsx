@@ -74,7 +74,6 @@ const App: React.FC = () => {
       <ImageModule image={imgURL} state={modal} close={closeModal} />
     </>
   );
-  
 };
 
 export default App;
