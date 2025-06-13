@@ -1,6 +1,6 @@
 import css from './ImageCard.module.css';
 import { FC } from 'react';
-import { Image } from '../../galleryApi'; // Імпорт Image
+import { Image } from '../../galleryApi';
 
 interface ImageCardProps {
   img: Image;

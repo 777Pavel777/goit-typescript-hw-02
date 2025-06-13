@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { fetchGallery, Image, GalleryResponse } from '../galleryApi'; // Імпорт типів
+import { fetchGallery, Image, GalleryResponse } from '../galleryApi';
 import SearchBar from './SearchBar/SearchBar';
 import ImageGallery from './ImageGallery/ImageGallery';
 import ImageModule from './ImageModule/ImageModule';
